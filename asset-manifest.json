@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/shahidreacthosting/static/js/main.25e39b9a.chunk.js",
+    "main.js.map": "/shahidreacthosting/static/js/main.25e39b9a.chunk.js.map",
+    "runtime-main.js": "/shahidreacthosting/static/js/runtime-main.5609c606.js",
+    "runtime-main.js.map": "/shahidreacthosting/static/js/runtime-main.5609c606.js.map",
+    "static/js/2.3afeb0c6.chunk.js": "/shahidreacthosting/static/js/2.3afeb0c6.chunk.js",
+    "static/js/2.3afeb0c6.chunk.js.map": "/shahidreacthosting/static/js/2.3afeb0c6.chunk.js.map",
+    "index.html": "/shahidreacthosting/index.html",
+    "static/js/2.3afeb0c6.chunk.js.LICENSE.txt": "/shahidreacthosting/static/js/2.3afeb0c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5609c606.js",
+    "static/js/2.3afeb0c6.chunk.js",
+    "static/js/main.25e39b9a.chunk.js"
+  ]
+}
